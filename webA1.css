@@ -1,0 +1,55 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    text-align:center;
+    background-color:navy;
+    color:white;
+    padding-block: 20px;
+  }
+
+  h1, h2 {
+    margin: 0;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .syllabus-section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .syllabus-section li {
+    margin: 10px;
+    padding: 0;
+  }
+
+  ul li{   
+    display: inline-block
+  }
+  
+  .slides{
+  background-color: rgb(222, 161, 221);
+
+  }
+
+  .starter{
+  background-color: rgb(120, 195, 206);
+  
+  }
+  .checkoff{
+  background-color: rgb(242, 154, 142);
+
+  }
+  .solution{
+  background-color: rgb(153, 206, 120);
+  
+  }
